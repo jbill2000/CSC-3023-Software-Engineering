@@ -1,0 +1,5 @@
+Tile character color1 color2 color3 walkable //for walkable, 0 is for walls
+
+Button character color1 color2 color3 shape groupNum ifTimed time
+
+Spike character color1 color2 color3 groupNum

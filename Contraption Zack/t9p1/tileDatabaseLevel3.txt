@@ -1,0 +1,20 @@
+Tile 3  0 0 0 0
+Tile 4  0 .8 1 1
+Tile 5  .9 0 0 1
+Tile 6  .78 .78 .78 1
+Protrusion p .3 .9 0 850 200 10 10 5
+Protrusion p2 .3 .9 0 745 140 10 10 5
+Arrow arrow r .9 0 0 850 825 825 175 150 200 8
+Arrow al l .9 0 0 150 175 175 325 300 350 8
+Arrow ad l .9 0 0 150 175 175 600 575 625 8
+SquareButton osb1 .8 .5 0 750 400 2 1 
+Spring spring1 right .7 .7 .7 350 300 3 1 
+Spring spring2 left .7 .7 .7 550 550 3 1 
+CircleButton bcb1 .7 .7 .7 250 550 1
+Walls w1 s .7 .7 .7 150 450 6
+Walls w2 s .7 .7 .7 225 450 6
+Walls w3 s .7 .7 .7 350 450 6
+Walls w4 s .7 .7 .7 425 450 6
+Spike ys1 .7 .7 .7 250 266 282 475 450 475 1 1
+Spike ys2 .7 .7 .7 282 298 314 475 450 475 1 1
+Spike ys3 .7 .7 .7 314 330 346 475 450 475 1 1

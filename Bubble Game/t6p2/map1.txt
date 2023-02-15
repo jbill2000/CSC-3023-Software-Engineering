@@ -1,0 +1,41 @@
+400
+400
+2
+a 25
+b 50
+5
+a 200 200 
+b 200 300
+b 300 200
+b 100 200
+b 200 100
+
+
+2
+
+type1 30 1.0 4 
+health 0 5 10 5 
+health 0 -5 10 8 
+bubble 0 10 1 5 3 2 2 100 5 
+bubble 0 -10 1 5 .5 10 .1 150 2.5
+
+type2 15 .5 2 
+health 10 0 5 10 
+health -10 0 5 10
+
+2
+type1 0 0 0 
+type2 200 0 1 
+
+
+
+(this line and below not read by the scanner) // in this file format, only reads the specified number of items, not until the end of the file
+
+
+The first set two things are the unit definitions, the second set is the unit placement. They both don't have to be two things.
+
+comments / formatting 
+type locx locy player 
+name rad speed attributenumber attributetype0 posx0 posy0 rad attribute00 ... attribute0N ...
+health x y hp rad
+bubble x y type size damage speed refire range bubblesize

@@ -1,0 +1,32 @@
+1
+2
+10 10
+475 250
+
+3 3 3 3 3 3 3 3 3 3
+3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 
+3 3 2 2 2 2 2 2 3 3 
+3 3 2 2 2 2 2 2 3 3
+3 3 2 2 2 2 2 2 3 3 
+3 3 2 2 2 2 2 2 3 3 
+3 3 2 2 2 2 2 2 3 3 
+3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3
+2.txt
+NONE
+NONE
+NONE
+os1 os2 os3 os4 os5 os6 os7 os8 os9 
+bs1 bs2 bs3 bs4 bs5 bs6 bs7 bs8 bs9 bs10 bs11 bs12 bs13 bs14 bs15
+ps1 ps2 ps3 ps4 ps5 ps6
+ys1 ys2 ys3 ys4 ys5 ys6
+osb1 osb2 
+bsb1 bsb2 
+psb1 psb2 
+ysb1 ysb2 
+w1 w2 w3 w4 w5 w6 w7
+spring1 spring2 
+arrow 
+ar
+p p2 p3

@@ -1,0 +1,27 @@
+3
+4
+9 9
+740 180
+3 3 3 3 3 3 3 3 3
+3 6 6 6 4 6 6 6 3
+3 6 6 6 6 6 6 6 3
+3 6 6 6 6 6 6 6 3
+3 6 6 6 6 6 6 6 3
+3 6 6 6 6 6 6 6 3
+3 6 6 6 6 6 6 6 3
+3 5 5 5 4 5 5 5 3
+3 3 3 3 3 3 3 3 3
+NONE
+2complete.txt
+NONE
+2complete.txt
+p p2
+spring1 spring2
+arrow
+ad
+al
+osb1
+bcb1
+w1 w2 w3 w4
+ys1 ys2 ys3
+water
